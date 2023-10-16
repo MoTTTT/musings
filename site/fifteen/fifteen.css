@@ -1,0 +1,55 @@
+#heading
+{
+        font: bold 100px Arial, Helvetica, sans-serif;
+        width: 640px;
+        text-align: center;
+        color: grey;
+        cursor: hand;
+}
+
+.empty
+{
+        background-color: grey;
+        background-repeat: no-repeat;
+        background-position: 160px 100px;
+}
+
+a             { border: 1px solid grey; text-decoration: none;}
+.numbers a    { background-image: url(numbers.gif); }
+.family  a    { background-image: url(family.jpg);  }
+#puzzlegrid a { position: absolute; width: 160px; height: 100px; }
+#puzzlegrid   { position: absolute; left:  280px;    top: 200px; }
+#heading      { position: absolute; left:  280px;     top: 50px; }
+
+.t01          { background-position:    0px    0px; }
+.t02          { background-position: -160px    0px; }
+.t03          { background-position: -320px    0px; }
+.t04          { background-position: -480px    0px; }
+.t05          { background-position:    0px -100px; }
+.t06          { background-position: -160px -100px; }
+.t07          { background-position: -320px -100px; }
+.t08          { background-position: -480px -100px; }
+.t09          { background-position:    0px -200px; }
+.t10          { background-position: -160px -200px; }
+.t11          { background-position: -320px -200px; }
+.t12          { background-position: -480px -200px; }
+.t13          { background-position:    0px -300px; }
+.t14          { background-position: -160px -300px; }
+.t15          { background-position: -320px -300px; }
+
+#cell11       { left:   0px; top:   0px; }
+#cell12       { left: 160px; top:   0px; }
+#cell13       { left: 320px; top:   0px; }
+#cell14       { left: 480px; top:   0px; }
+#cell21       { left:   0px; top: 100px; }
+#cell22       { left: 160px; top: 100px; }
+#cell23       { left: 320px; top: 100px; }
+#cell24       { left: 480px; top: 100px; }
+#cell31       { left:   0px; top: 200px; }
+#cell32       { left: 160px; top: 200px; }
+#cell33       { left: 320px; top: 200px; }
+#cell34       { left: 480px; top: 200px; }
+#cell41       { left:   0px; top: 300px; }
+#cell42       { left: 160px; top: 300px; }
+#cell43       { left: 320px; top: 300px; }
+#cell44       { left: 480px; top: 300px; }
