@@ -1,0 +1,40 @@
+h1 {   color: DarkSlateBlue;  text-align: center;}
+h3 {  color: DarkSlateBlue;}
+body {  
+  text-align: justify;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.figcaption {  padding: 10px;  color: DarkSlateBlue;}
+
+.photo {
+    border: thin DarkSlateBlue solid;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.figure {
+  border: thin DarkSlateBlue solid;
+  display: flex;
+  flex-flow: column;
+  page-break-inside: avoid;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.landscape {   
+    width: 90%; 
+} 
+.portrait {   width: 65%; }
+
+#introquotedescrition {
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
