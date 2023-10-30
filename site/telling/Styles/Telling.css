@@ -1,0 +1,59 @@
+h1 {   color: DarkSlateBlue;  text-align: center;}
+h3 {  color: DarkSlateBlue;}
+body {  
+  text-align: justify;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#author {  width: 109px;  margin: auto;}
+.figcaption {  padding: 10px;  color: DarkSlateBlue;}
+.figure {
+  border: thin DarkSlateBlue solid;
+  display: flex;
+  flex-flow: column;
+  page-break-inside: avoid;
+  margin: 10px;
+  float: right;
+}
+img {   
+  width: 100%;
+}
+.landscape {   width: 60%; } 
+.portrait {   width: 60%; }
+.imageintro {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: 800;
+}
+.imagecontainer {
+  page-break-inside: avoid;
+  max-width: 70%;
+  max-height: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#intro {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#introquote {
+  width: 70%;
+  padding: 10px;
+  border-style: solid;
+  border-color: DarkSlateBlue;
+  border-radius: 7px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#introquotedescrition {
+  width: 70%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}

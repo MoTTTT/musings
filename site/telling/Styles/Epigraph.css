@@ -1,0 +1,26 @@
+#intro {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#introquote {
+  width: 70%;
+  padding: 10px;
+  border-style: solid;
+  border-color: DarkSlateBlue;
+  border-radius: 7px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#introquotedescrition {
+  width: 70%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  color: DarkSlateBlue;
+}
