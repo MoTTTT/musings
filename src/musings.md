@@ -168,6 +168,7 @@
 
 ## 5 Year Sells (GYMYC)
 
+- System Services
 - Brand Engineering
 - White Box Security
 - AirGap Cloud
@@ -223,7 +224,7 @@
 - The only choice we make is which dots to join
 - Long Term Planning: Big things happen if you let them
 - Pick a Persona, any Persona; Pick an Archetype, any Archetype
-- Shaman: Own the Persona, Own Archetypes
+- Shaman: Own all the Persona the Archetypes
 - Fix the Pass Less Travelled
 - The History of State Capture
 
